@@ -1,2 +1,2 @@
 # Deep-Learning
-CIS 522 UPenn Graduate Course
+CIS 522 UPenn Graduate Course under Dr Konrad Kording
